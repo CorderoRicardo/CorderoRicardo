@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorderoRicardo
-- 👀 I’m interested in programming in Java, Python and some UI design
-- 🌱 I’m currently learning about web design and programmnig
+- 👀 I’m interested in programming in Java, JS, Node, Python and some UI design
+- 🌱 I’m currently learning about web design and programmnig with frameworks
 - 📫 You can reach me through my email: rcordero954@gmail.com
 
 <!---
