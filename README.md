@@ -11,6 +11,10 @@
   </li>
 </ul>
 <p>
+  I had an internship at PolyWorks Mexico where I worked in a team setting and developed a small code editor called 
+  <a href="https://eca.mx.polyworks.com:44319/" >ECA</a>
+</p>
+<p>
   I'm currently learning some tools like PHP and MySQL to make better websites .<br>
   You can reach me through my email: <strong>rcordero954@gmail.com</strong>
 </p>
