@@ -19,7 +19,7 @@
   You can reach me through my email: <strong>rcordero954@gmail.com</strong>
 </p>
 
-<h3>About to start a new job :D</h3>
+<h3>Looking for a new Job</h3>
 
 <!---
 CorderoRicardo/CorderoRicardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
