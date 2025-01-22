@@ -15,7 +15,8 @@
   <a href="https://eca.mx.polyworks.com:44319/" disabled ><del>ECA</del></a>
 </p>
 <p>
-  I'm currently learning some tools like PHP and MySQL to make better websites .<br>
+  Working with Laravel, Vue, Tailwind and MySQL to make the requirements into reality.<br>
+  I'm tinkering with Docker these days. <br> 
   You can reach me through my email: <strong>rcordero954@gmail.com</strong>
 </p>
 
