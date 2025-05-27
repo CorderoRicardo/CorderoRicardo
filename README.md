@@ -1,9 +1,11 @@
 <h4>Hi, I'm @CorderoRicardo</h4>
 <p>
-  <em>And I'm something of a software developer myself 🤓</em><br><br> 
-  I been working on web development for a while and I learned a thing or two on <strong>UI/UX</strong> as well as <strong>Node JS</strong>
-  with frameworks for frontend like <em>Vue</em> or <em>SASS</em> and other libraries like <em>CodeMirror</em> and <em>Yjs</em> to achieve
-  functionality. I have a badge for a MTA Certification that I want to show... It´s not much but is honest work.
+  <em>And I'm a freelance software developer myself 🤓</em><br><br>
+  <em> Graduate in Computer Science</em><br><br>
+  I been working on web development for more than 3+ years and I learned a lot of things about <strong>UI/UX</strong> as well as <strong>Node JS</strong>
+  with frameworks for frontend like <em>Vue</em>, <em>SASS</em> <em>React</em> and other libraries like <em>CodeMirror</em> and <em>Yjs</em> to achieve
+  functionality and other frameworks for backend like <em>Laravel</em> and <em>NestJS</em> building some APIs and end points too. <br>
+  I have a badge for a MTA Certification that I want to show, and working to get more (looking at <em>AWS</em>)
 </p>
 <ul>
   <li>
@@ -16,7 +18,20 @@
 </p>
 <p>
   Working with Laravel, Vue, Tailwind and MySQL to make the requirements into reality.<br>
-  I'm tinkering with Docker these days. <br> 
+    Interesting projects:
+  <ul>
+    <li>
+      <a href="https://conoceles.ieepuebla.org.mx/candidaturas">Conoceles</a>
+    </li>
+    <li>
+      <a href="https://timer-clk.netlify.app/">Timer</a>
+    </li>
+    <li>
+      <a href="https://leblog-cf-prac.netlify.app/">Demo Blog</a>
+    </li>
+  </ul>
+  I'm tinkering with CPanel these days for a new awesome project<br>
+      
   You can reach me through my email: <strong>rcordero954@gmail.com</strong>
 </p>
 
