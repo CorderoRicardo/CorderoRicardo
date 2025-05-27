@@ -21,13 +21,13 @@
     Interesting projects:
   <ul>
     <li>
-      <a href="https://conoceles.ieepuebla.org.mx/candidaturas">Conoceles</a>
+      <a href="https://conoceles.ieepuebla.org.mx/candidaturas" target="_blank">Conoceles</a>
     </li>
     <li>
-      <a href="https://timer-clk.netlify.app/">Timer</a>
+      <a href="https://timer-clk.netlify.app/" target="_blank">Timer</a>
     </li>
     <li>
-      <a href="https://leblog-cf-prac.netlify.app/">Demo Blog</a>
+      <a href="https://leblog-cf-prac.netlify.app/" target="_blank">Demo Blog</a>
     </li>
   </ul>
   I'm tinkering with CPanel these days for a new awesome project<br>
