@@ -32,6 +32,9 @@
     <li>
       <a href="https://leblog-cf-prac.netlify.app/" target="_blank">Demo Blog</a>
     </li>
+    <li>
+      <a href="https://spg-pswd.netlify.app/" target="_blank">Simple Password Generator</a>
+    </li>
   </ul>
   I'm tinkering with CPanel and a VPS these days for a new awesome project<br>
       
